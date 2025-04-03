@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "dotenv": "^16.4.7",
+    "mineflayer": "^4.27.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "mineflayer-pvp": "^1.0.0",
+    "openai": "^4.89.1",
+    "vec3": "^0.1.10"
+  }
+}
